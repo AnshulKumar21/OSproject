@@ -20,7 +20,7 @@ Deadlock detection is a technique used in operating systems and concurrent progr
 ✅ **Simulation and Prevention** – Detects deadlocks and helps prevent them through process scheduling.  
 
 ## Project Structure  
-- **backEnd.py** – Implements deadlock detection logic and handles the core computations.  
-- **gui.py** – A Tkinter-based graphical interface that allows users to visualize and interact with the system.  
+- **main.py** – Implements deadlock detection logic and handles the core computations and create a gui using tkinter.  
+ 
 
 
